@@ -1,0 +1,3 @@
+C:/Users/rdell/OneDrive/Desktop/Programmazione di Sistema/Malnati/Esercitazioni/FileCheck/cmake-build-debug/CMakeFiles/FileCheck.dir
+C:/Users/rdell/OneDrive/Desktop/Programmazione di Sistema/Malnati/Esercitazioni/FileCheck/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rdell/OneDrive/Desktop/Programmazione di Sistema/Malnati/Esercitazioni/FileCheck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
